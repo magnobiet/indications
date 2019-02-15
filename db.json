@@ -1,0 +1,112 @@
+{
+  "categories": [{
+    "id": 1,
+    "title": "Financial services",
+    "icon": "attach_money"
+  }, {
+    "id": 2,
+    "title": "Transport services",
+    "icon": "commute"
+  }, {
+    "id": 3,
+    "title": "Books",
+    "icon": "books"
+  }, {
+    "id": 4,
+    "title": "Others",
+    "icon": "whatshot"
+  }],
+  "indications": [{
+    "id": 1,
+    "title": "Me Poupe!: 10 passos para nunca mais faltar dinheiro no seu bolso",
+    "link": "https://amzn.to/2W5yB1P",
+    "categoryId": 3
+  }, {
+    "id": 2,
+    "title": "Pai rico, pai pobre 20 anos",
+    "link": "https://amzn.to/2W8dPyP",
+    "categoryId": 3
+  }, {
+    "id": 3,
+    "title": "O poder do hábito",
+    "link": "https://amzn.to/2T6K13A",
+    "categoryId": 3
+  }, {
+    "id": 4,
+    "title": "Clube FII",
+    "link": "http://bit.ly/2FDtUrb",
+    "categoryId": 1
+  }, {
+    "id": 5,
+    "title": "Elliot",
+    "link": "http://bit.ly/2FEj7x0",
+    "categoryId": 1
+  }, {
+    "id": 6,
+    "title": "Banco Inter",
+    "link": "http://bit.ly/2FHTriW",
+    "categoryId": 1
+  }, {
+    "id": 7,
+    "title": "Magnetis",
+    "link": "http://bit.ly/2FDvM3a",
+    "categoryId": 1
+  }, {
+    "id": 8,
+    "title": "Méliuz",
+    "link": "http://bit.ly/2X5IfSH",
+    "categoryId": 1
+  }, {
+    "id": 9,
+    "title": "Banco Neon",
+    "link": "http://bit.ly/2FFS6Jx",
+    "categoryId": 1
+  }, {
+    "id": 10,
+    "title": "NuBank",
+    "link": "http://bit.ly/2FFEu10",
+    "categoryId": 1
+  }, {
+    "id": 11,
+    "title": "PicPay",
+    "link": "http://bit.ly/2T0JZxz",
+    "categoryId": 1
+  }, {
+    "id": 12,
+    "title": "Stake",
+    "link": "http://bit.ly/2SGtuaj",
+    "categoryId": 1
+  }, {
+    "id": 13,
+    "title": "Warren",
+    "link": "http://bit.ly/2FF9fmw",
+    "categoryId": 1
+  }, {
+    "id": 14,
+    "title": "Cabify",
+    "link": "http://bit.ly/2SWX76A",
+    "code": "magnob10",
+    "categoryId": 2
+  }, {
+    "id": 15,
+    "title": "Uber",
+    "link": "https://ubr.to/2FEnqZd",
+    "code": "magnof15ue",
+    "categoryId": 2
+  }, {
+    "id": 16,
+    "title": "Dropbox",
+    "link": "http://bit.ly/2FFSQyj",
+    "categoryId": 4
+  }, {
+    "id": 17,
+    "title": "Notion",
+    "link": "http://bit.ly/2AZz24V",
+    "categoryId": 4
+  }, {
+    "id": 18,
+    "title": "Setapp",
+    "link": "http://bit.ly/2FDvv08",
+    "categoryId": 4
+  }]
+}

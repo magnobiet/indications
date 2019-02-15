@@ -1,0 +1,22 @@
+{
+  "name": "indications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx parcel-bundler index.html -p 3000",
+    "dev:api": "npx json-server --watch db.json -p 3001",
+    "serve": "npx http-server ./ -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnobiet/indications.git"
+  },
+  "keywords": [],
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnobiet/indications/issues"
+  },
+  "homepage": "https://github.com/magnobiet/indications#readme"
+}
