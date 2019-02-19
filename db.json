@@ -9,20 +9,20 @@
     "icon": "commute"
   }, {
     "id": 3,
-    "title": "Books",
-    "icon": "books"
-  }, {
-    "id": 4,
-    "title": "Others",
-    "icon": "whatshot"
-  }, {
-    "id": 5,
     "title": "Personal development",
     "icon": "person"
   }, {
-    "id": 6,
+    "id": 4,
     "title": "Productivity",
     "icon": "thumb_up_alt"
+  },{
+    "id": 5,
+    "title": "Books",
+    "icon": "books"
+  }, {
+    "id": 99,
+    "title": "Others",
+    "icon": "whatshot"
   }],
   "indications": [{
     "id": 1,
