@@ -28,17 +28,17 @@
     "id": 1,
     "title": "Me Poupe!: 10 passos para nunca mais faltar dinheiro no seu bolso",
     "link": "https://amzn.to/2W5yB1P",
-    "categoryId": 3
+    "categoryId": 5
   }, {
     "id": 2,
     "title": "Pai rico, pai pobre 20 anos",
     "link": "https://amzn.to/2W8dPyP",
-    "categoryId": 3
+    "categoryId": 5
   }, {
     "id": 3,
     "title": "O poder do hábito",
     "link": "https://amzn.to/2T6K13A",
-    "categoryId": 3
+    "categoryId": 5
   }, {
     "id": 4,
     "title": "Clube FII",
@@ -105,7 +105,7 @@
     "id": 16,
     "title": "Dropbox",
     "link": "https://bit.ly/2FFSQyj",
-    "categoryId": 6
+    "categoryId": 4
   }, {
     "id": 17,
     "title": "Notion",
@@ -115,16 +115,16 @@
     "id": 18,
     "title": "Setapp",
     "link": "https://bit.ly/2FDvv08",
-    "categoryId": 4
+    "categoryId": 99
   }, {
     "id": 19,
     "title": "Lifevise",
     "link": "https://bit.ly/2SeUeK2",
-    "categoryId": 5
+    "categoryId": 3
   }, {
     "id": 20,
     "title": "G Suite",
     "link": "https://goo.gl/Qf8X52",
-    "categoryId": 6
+    "categoryId": 4
   }]
 }
