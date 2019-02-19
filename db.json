@@ -38,57 +38,57 @@
   }, {
     "id": 4,
     "title": "Clube FII",
-    "link": "http://bit.ly/2FDtUrb",
+    "link": "https://bit.ly/2FDtUrb",
     "categoryId": 1
   }, {
     "id": 5,
     "title": "Elliot",
-    "link": "http://bit.ly/2FEj7x0",
+    "link": "https://bit.ly/2FEj7x0",
     "categoryId": 1
   }, {
     "id": 6,
     "title": "Banco Inter",
-    "link": "http://bit.ly/2FHTriW",
+    "link": "https://bit.ly/2FHTriW",
     "categoryId": 1
   }, {
     "id": 7,
     "title": "Magnetis",
-    "link": "http://bit.ly/2FDvM3a",
+    "link": "https://bit.ly/2FDvM3a",
     "categoryId": 1
   }, {
     "id": 8,
     "title": "Méliuz",
-    "link": "http://bit.ly/2X5IfSH",
+    "link": "https://bit.ly/2X5IfSH",
     "categoryId": 1
   }, {
     "id": 9,
     "title": "Banco Neon",
-    "link": "http://bit.ly/2FFS6Jx",
+    "link": "https://bit.ly/2FFS6Jx",
     "categoryId": 1
   }, {
     "id": 10,
     "title": "NuBank",
-    "link": "http://bit.ly/2FFEu10",
+    "link": "https://bit.ly/2FFEu10",
     "categoryId": 1
   }, {
     "id": 11,
     "title": "PicPay",
-    "link": "http://bit.ly/2T0JZxz",
+    "link": "https://bit.ly/2T0JZxz",
     "categoryId": 1
   }, {
     "id": 12,
     "title": "Stake",
-    "link": "http://bit.ly/2SGtuaj",
+    "link": "https://bit.ly/2SGtuaj",
     "categoryId": 1
   }, {
     "id": 13,
     "title": "Warren",
-    "link": "http://bit.ly/2FF9fmw",
+    "link": "https://bit.ly/2FF9fmw",
     "categoryId": 1
   }, {
     "id": 14,
     "title": "Cabify",
-    "link": "http://bit.ly/2SWX76A",
+    "link": "https://bit.ly/2SWX76A",
     "code": "magnob10",
     "categoryId": 2
   }, {
@@ -100,22 +100,22 @@
   }, {
     "id": 16,
     "title": "Dropbox",
-    "link": "http://bit.ly/2FFSQyj",
+    "link": "https://bit.ly/2FFSQyj",
     "categoryId": 4
   }, {
     "id": 17,
     "title": "Notion",
-    "link": "http://bit.ly/2AZz24V",
+    "link": "https://bit.ly/2AZz24V",
     "categoryId": 4
   }, {
     "id": 18,
     "title": "Setapp",
-    "link": "http://bit.ly/2FDvv08",
+    "link": "https://bit.ly/2FDvv08",
     "categoryId": 4
   }, {
     "id": 19,
     "title": "Lifevise",
-    "link": "http://bit.ly/2SeUeK2",
+    "link": "https://bit.ly/2SeUeK2",
     "categoryId": 5
   }]
 }
