@@ -1,11 +1,11 @@
 {
   "categories": [{
     "id": 1,
-    "title": "Financial services",
+    "title": "Finance",
     "icon": "attach_money"
   }, {
     "id": 2,
-    "title": "Transport services",
+    "title": "Maps & Navigation",
     "icon": "commute"
   }, {
     "id": 3,
