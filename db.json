@@ -15,9 +15,13 @@
     "id": 4,
     "title": "Productivity",
     "icon": "thumb_up_alt"
-  },{
+  }, {
     "id": 5,
     "title": "Books",
+    "icon": "books"
+  }, {
+    "id": 6,
+    "title": "Tools",
     "icon": "books"
   }, {
     "id": 99,
@@ -126,5 +130,10 @@
     "title": "G Suite",
     "link": "https://goo.gl/Qf8X52",
     "categoryId": 4
+  }, {
+    "id": 21,
+    "title": "TunnelBear VPN",
+    "link": "https://bit.ly/2tCF9b8",
+    "categoryId": 6
   }]
 }
