@@ -18,10 +18,14 @@
   }, {
     "id": 5,
     "title": "Books",
-    "icon": "books"
+    "icon": "library_books"
   }, {
     "id": 6,
     "title": "Tools",
+    "icon": "get_app"
+  }, {
+    "id": 7,
+    "title": "Education",
     "icon": "books"
   }, {
     "id": 99,
@@ -135,5 +139,10 @@
     "title": "TunnelBear VPN",
     "link": "https://bit.ly/2tCF9b8",
     "categoryId": 6
+  }, {
+    "id": 22,
+    "title": "Cambly - English Teacher",
+    "link": "https://bit.ly/2U7nN1W",
+    "categoryId": 7
   }]
 }
