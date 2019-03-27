@@ -1,7 +1,7 @@
 {
   "categories": [{
     "id": 1,
-    "title": "Finance",
+    "title": "Finances",
     "icon": "attach_money"
   }, {
     "id": 2,
@@ -178,5 +178,10 @@
     "title": "Udemy: Online Courses",
     "link": "https://bit.ly/2TvuZE3",
     "categoryId": 7
+  }, {
+    "id": 28,
+    "title": "Monetus",
+    "link": "http://bit.ly/2TGl12N",
+    "categoryId": 1
   }]
 }
