@@ -27,10 +27,14 @@
     "id": 7,
     "title": "Education",
     "icon": "books"
-  },{
+  }, {
     "id": 8,
     "title": "Communication",
     "icon": "alternate_email"
+  }, {
+    "id": 8,
+    "title": "Travel & Local",
+    "icon": "beach_access"
   }, {
     "id": 99,
     "title": "Others",
@@ -183,5 +187,10 @@
     "title": "Monetus",
     "link": "http://bit.ly/2TGl12N",
     "categoryId": 1
+  }, {
+    "id": 28,
+    "title": "Clube Hotel Urbano",
+    "link": "http://bit.ly/2HWcFTe",
+    "categoryId": 8
   }]
 }
