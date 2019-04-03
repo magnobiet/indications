@@ -32,7 +32,7 @@
     "title": "Communication",
     "icon": "alternate_email"
   }, {
-    "id": 8,
+    "id": 9,
     "title": "Travel & Local",
     "icon": "beach_access"
   }, {
@@ -188,9 +188,9 @@
     "link": "http://bit.ly/2TGl12N",
     "categoryId": 1
   }, {
-    "id": 28,
+    "id": 29,
     "title": "Clube Hotel Urbano",
     "link": "http://bit.ly/2HWcFTe",
-    "categoryId": 8
+    "categoryId": 9
   }]
 }
