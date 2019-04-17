@@ -1,38 +1,49 @@
-document.addEventListener('DOMContentLoaded', () => {
+new Vue({
+	el: '#app',
+	data: {
+		year: new Date().getFullYear(),
+		categories: [],
+		loading: true
+	},
+	methods: {
+		sortBy(list, key = 'title') {
 
-	new Vue({
-		el: '#app',
-		data: {
-			year: new Date().getFullYear(),
-			categories: []
-		},
-		created() {
+			list.sort((a, b) => {
 
-			fetch('https://my-json-server.typicode.com/magnobiet/indications/categories?_embed=indications').then((response) => response.json()).then((response) => {
+				if (a[key] > b[key]) {
+					return 1;
+				}
+
+				if (a[key] < b[key]) {
+					return -1;
+				}
+
+				return 0;
+
+			});
+
+			return list;
+
+		}
+	},
+	created() {
+
+		this.loading = true;
+
+		fetch('https://my-json-server.typicode.com/magnobiet/indications/categories?_embed=indications')
+			.then((response) => response.json())
+			.then((response) => {
 
 				this.categories = response.map((category) => {
 
-					category.indications.sort((a, b) => {
-
-						if (a.title > b.title) {
-							return 1;
-						}
-
-						if (a.title < b.title) {
-							return -1;
-						}
-
-						return 0;
-
-					});
-
+					category.indications = this.sortBy(category.indications);
 					return category;
 
 				});
 
+			}).then(() => {
+				this.loading = false;
 			});
 
-		}
-	});
-
-}, false);
+	}
+});

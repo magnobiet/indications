@@ -1,8 +1,7 @@
 {
-  "name": "indications",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "name": "referral-links",
+  "version": "2.0.0",
+  "description": "My referral links",
   "scripts": {
     "dev": "npx parcel-bundler index.html -p 3000",
     "dev:api": "npx json-server --watch db.json -p 3001",
