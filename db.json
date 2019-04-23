@@ -54,188 +54,164 @@
   "indications": [
     {
       "id": 1,
-      "title": "Me Poupe!: 10 passos para nunca mais faltar dinheiro no seu bolso",
-      "link": "https://amzn.to/2W5yB1P",
-      "categoryId": 5
-    },
-    {
-      "id": 2,
-      "title": "Pai rico, pai pobre 20 anos",
-      "link": "https://amzn.to/2W8dPyP",
-      "categoryId": 5
-    },
-    {
-      "id": 3,
-      "title": "O poder do hábito",
-      "link": "https://amzn.to/2T6K13A",
-      "categoryId": 5
-    },
-    {
-      "id": 4,
       "title": "Clube FII",
       "link": "https://bit.ly/2FDtUrb",
       "categoryId": 1
     },
     {
-      "id": 5,
+      "id": 2,
       "title": "Elliot",
       "link": "https://bit.ly/2FEj7x0",
       "categoryId": 1
     },
     {
-      "id": 6,
+      "id": 3,
       "title": "Banco Inter",
       "link": "https://bit.ly/2FHTriW",
       "categoryId": 1
     },
     {
-      "id": 7,
+      "id": 4,
       "title": "Magnetis",
       "link": "https://bit.ly/2FDvM3a",
       "categoryId": 1
     },
     {
-      "id": 8,
+      "id": 5,
       "title": "Méliuz",
       "link": "https://bit.ly/2X5IfSH",
       "categoryId": 1
     },
     {
-      "id": 9,
+      "id": 6,
       "title": "Banco Neon",
       "link": "https://bit.ly/2FFS6Jx",
       "categoryId": 1
     },
     {
-      "id": 10,
+      "id": 7,
       "title": "NuBank",
       "link": "https://bit.ly/2FFEu10",
       "categoryId": 1
     },
     {
-      "id": 11,
+      "id": 8,
       "title": "PicPay",
       "link": "https://bit.ly/2T0JZxz",
       "categoryId": 1
     },
     {
-      "id": 12,
+      "id": 9,
       "title": "Stake",
       "link": "https://bit.ly/2SGtuaj",
       "categoryId": 1
     },
     {
-      "id": 13,
+      "id": 10,
       "title": "Warren",
       "link": "https://bit.ly/2FF9fmw",
       "categoryId": 1
     },
     {
-      "id": 14,
+      "id": 11,
       "title": "Cabify",
       "link": "https://bit.ly/2SWX76A",
       "code": "magnob10",
       "categoryId": 2
     },
     {
-      "id": 15,
+      "id": 12,
       "title": "Uber",
       "link": "https://ubr.to/2FEnqZd",
       "code": "magnof15ue",
       "categoryId": 2
     },
     {
-      "id": 16,
+      "id": 13,
       "title": "Dropbox",
       "link": "https://bit.ly/2FFSQyj",
       "categoryId": 4
     },
     {
-      "id": 17,
+      "id": 14,
       "title": "Notion",
       "link": "https://bit.ly/2AZz24V",
       "categoryId": 6
     },
     {
-      "id": 18,
+      "id": 15,
       "title": "Setapp",
       "link": "https://bit.ly/2FDvv08",
       "categoryId": 99
     },
     {
-      "id": 19,
+      "id": 16,
       "title": "Lifevise",
       "link": "https://bit.ly/2SeUeK2",
       "categoryId": 3
     },
     {
-      "id": 20,
+      "id": 17,
       "title": "G Suite",
       "link": "https://goo.gl/Qf8X52",
       "categoryId": 4
     },
     {
-      "id": 21,
+      "id": 18,
       "title": "TunnelBear VPN",
       "link": "https://bit.ly/2tCF9b8",
       "categoryId": 6
     },
     {
-      "id": 22,
+      "id": 19,
       "title": "Cambly - English Teacher",
       "link": "https://bit.ly/2U7nN1W",
       "categoryId": 7
     },
     {
-      "id": 23,
+      "id": 20,
       "title": "Beblue",
       "link": "https://bit.ly/2U7nN1W",
       "categoryId": 1
     },
     {
-      "id": 24,
+      "id": 21,
       "title": "COINEXT",
       "link": "https://bit.ly/2U7nN1W",
       "categoryId": 1
     },
     {
-      "id": 25,
+      "id": 22,
       "title": "Brave",
       "link": "https://bit.ly/2H4Ry0D",
       "categoryId": 8
     },
     {
-      "id": 26,
-      "title": "Os segredos da mente milionária",
-      "link": "https://amzn.to/2FnGBDJ",
-      "categoryId": 5
-    },
-    {
-      "id": 27,
+      "id": 23,
       "title": "Textly: Free Writing Assistant",
       "link": "https://bit.ly/2HGAyhx",
       "categoryId": 4
     },
     {
-      "id": 28,
+      "id": 24,
       "title": "Udemy: Online Courses",
       "link": "https://bit.ly/2TvuZE3",
       "categoryId": 7
     },
     {
-      "id": 29,
+      "id": 25,
       "title": "Monetus",
       "link": "http://bit.ly/2TGl12N",
       "categoryId": 1
     },
     {
-      "id": 30,
+      "id": 26,
       "title": "Clube Hotel Urbano",
       "link": "http://bit.ly/2HWcFTe",
       "categoryId": 9
     },
     {
-      "id": 31,
+      "id": 27,
       "title": "Nexoos peer-to-peer lending",
       "link": "http://bit.ly/2L0JDUG",
       "categoryId": 1
