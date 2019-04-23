@@ -30,7 +30,7 @@ new Vue({
 
 		this.loading = true;
 
-		fetch('https://my-json-server.typicode.com/magnobiet/indications/categories?_embed=indications')
+		fetch('https://my-json-server.typicode.com/magnobiet/referral/categories?_embed=indications')
 			.then((response) => response.json())
 			.then((response) => {
 
