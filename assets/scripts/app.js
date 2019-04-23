@@ -30,13 +30,13 @@ new Vue({
 
 		this.loading = true;
 
-		fetch('https://my-json-server.typicode.com/magnobiet/referral/categories?_embed=indications')
+		fetch('https://my-json-server.typicode.com/magnobiet/referral/categories?_embed=referrals')
 			.then((response) => response.json())
 			.then((response) => {
 
 				this.categories = response.map((category) => {
 
-					category.indications = this.sortBy(category.indications);
+					category.referrals = this.sortBy(category.referrals);
 					return category;
 
 				});
