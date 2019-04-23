@@ -1,201 +1,244 @@
 {
-  "categories": [{
-    "id": 1,
-    "title": "Finances",
-    "icon": "attach_money"
-  }, {
-    "id": 2,
-    "title": "Maps & Navigation",
-    "icon": "commute"
-  }, {
-    "id": 3,
-    "title": "Personal development",
-    "icon": "person"
-  }, {
-    "id": 4,
-    "title": "Productivity",
-    "icon": "thumb_up_alt"
-  }, {
-    "id": 5,
-    "title": "Books",
-    "icon": "library_books"
-  }, {
-    "id": 6,
-    "title": "Tools",
-    "icon": "get_app"
-  }, {
-    "id": 7,
-    "title": "Education",
-    "icon": "books"
-  }, {
-    "id": 8,
-    "title": "Communication",
-    "icon": "alternate_email"
-  }, {
-    "id": 9,
-    "title": "Travel & Local",
-    "icon": "beach_access"
-  }, {
-    "id": 99,
-    "title": "Others",
-    "icon": "whatshot"
-  }],
-  "indications": [{
-    "id": 1,
-    "title": "Me Poupe!: 10 passos para nunca mais faltar dinheiro no seu bolso",
-    "link": "https://amzn.to/2W5yB1P",
-    "categoryId": 5
-  }, {
-    "id": 2,
-    "title": "Pai rico, pai pobre 20 anos",
-    "link": "https://amzn.to/2W8dPyP",
-    "categoryId": 5
-  }, {
-    "id": 3,
-    "title": "O poder do hábito",
-    "link": "https://amzn.to/2T6K13A",
-    "categoryId": 5
-  }, {
-    "id": 4,
-    "title": "Clube FII",
-    "link": "https://bit.ly/2FDtUrb",
-    "categoryId": 1
-  }, {
-    "id": 5,
-    "title": "Elliot",
-    "link": "https://bit.ly/2FEj7x0",
-    "categoryId": 1
-  }, {
-    "id": 6,
-    "title": "Banco Inter",
-    "link": "https://bit.ly/2FHTriW",
-    "categoryId": 1
-  }, {
-    "id": 7,
-    "title": "Magnetis",
-    "link": "https://bit.ly/2FDvM3a",
-    "categoryId": 1
-  }, {
-    "id": 8,
-    "title": "Méliuz",
-    "link": "https://bit.ly/2X5IfSH",
-    "categoryId": 1
-  }, {
-    "id": 9,
-    "title": "Banco Neon",
-    "link": "https://bit.ly/2FFS6Jx",
-    "categoryId": 1
-  }, {
-    "id": 10,
-    "title": "NuBank",
-    "link": "https://bit.ly/2FFEu10",
-    "categoryId": 1
-  }, {
-    "id": 11,
-    "title": "PicPay",
-    "link": "https://bit.ly/2T0JZxz",
-    "categoryId": 1
-  }, {
-    "id": 12,
-    "title": "Stake",
-    "link": "https://bit.ly/2SGtuaj",
-    "categoryId": 1
-  }, {
-    "id": 13,
-    "title": "Warren",
-    "link": "https://bit.ly/2FF9fmw",
-    "categoryId": 1
-  }, {
-    "id": 14,
-    "title": "Cabify",
-    "link": "https://bit.ly/2SWX76A",
-    "code": "magnob10",
-    "categoryId": 2
-  }, {
-    "id": 15,
-    "title": "Uber",
-    "link": "https://ubr.to/2FEnqZd",
-    "code": "magnof15ue",
-    "categoryId": 2
-  }, {
-    "id": 16,
-    "title": "Dropbox",
-    "link": "https://bit.ly/2FFSQyj",
-    "categoryId": 4
-  }, {
-    "id": 17,
-    "title": "Notion",
-    "link": "https://bit.ly/2AZz24V",
-    "categoryId": 6
-  }, {
-    "id": 18,
-    "title": "Setapp",
-    "link": "https://bit.ly/2FDvv08",
-    "categoryId": 99
-  }, {
-    "id": 19,
-    "title": "Lifevise",
-    "link": "https://bit.ly/2SeUeK2",
-    "categoryId": 3
-  }, {
-    "id": 20,
-    "title": "G Suite",
-    "link": "https://goo.gl/Qf8X52",
-    "categoryId": 4
-  }, {
-    "id": 21,
-    "title": "TunnelBear VPN",
-    "link": "https://bit.ly/2tCF9b8",
-    "categoryId": 6
-  }, {
-    "id": 22,
-    "title": "Cambly - English Teacher",
-    "link": "https://bit.ly/2U7nN1W",
-    "categoryId": 7
-  }, {
-    "id": 23,
-    "title": "Beblue",
-    "link": "https://bit.ly/2U7nN1W",
-    "categoryId": 1
-  }, {
-    "id": 24,
-    "title": "COINEXT",
-    "link": "https://bit.ly/2U7nN1W",
-    "categoryId": 1
-  }, {
-    "id": 25,
-    "title": "Brave",
-    "link": "https://bit.ly/2H4Ry0D",
-    "categoryId": 8
-  }, {
-    "id": 26,
-    "title": "Os segredos da mente milionária",
-    "link": "https://amzn.to/2FnGBDJ",
-    "categoryId": 5
-  }, {
-    "id": 27,
-    "title": "Textly: Free Writing Assistant",
-    "link": "https://bit.ly/2HGAyhx",
-    "categoryId": 4
-  }, {
-    "id": 27,
-    "title": "Udemy: Online Courses",
-    "link": "https://bit.ly/2TvuZE3",
-    "categoryId": 7
-  }, {
-    "id": 28,
-    "title": "Monetus",
-    "link": "http://bit.ly/2TGl12N",
-    "categoryId": 1
-  }, {
-    "id": 29,
-    "title": "Clube Hotel Urbano",
-    "link": "http://bit.ly/2HWcFTe",
-    "categoryId": 9
-  }, {
-    "id": 30,
-    "title": "Nexoos peer-to-peer lending",
-    "link": "http://bit.ly/2L0JDUG",
-    "categoryId": 1
-  }]
+  "categories": [
+    {
+      "id": 1,
+      "title": "Finances",
+      "icon": "attach_money"
+    },
+    {
+      "id": 2,
+      "title": "Maps & Navigation",
+      "icon": "commute"
+    },
+    {
+      "id": 3,
+      "title": "Personal development",
+      "icon": "person"
+    },
+    {
+      "id": 4,
+      "title": "Productivity",
+      "icon": "thumb_up_alt"
+    },
+    {
+      "id": 5,
+      "title": "Books",
+      "icon": "library_books"
+    },
+    {
+      "id": 6,
+      "title": "Tools",
+      "icon": "get_app"
+    },
+    {
+      "id": 7,
+      "title": "Education",
+      "icon": "books"
+    },
+    {
+      "id": 8,
+      "title": "Communication",
+      "icon": "alternate_email"
+    },
+    {
+      "id": 9,
+      "title": "Travel & Local",
+      "icon": "beach_access"
+    },
+    {
+      "id": 99,
+      "title": "Others",
+      "icon": "whatshot"
+    }
+  ],
+  "indications": [
+    {
+      "id": 1,
+      "title": "Me Poupe!: 10 passos para nunca mais faltar dinheiro no seu bolso",
+      "link": "https://amzn.to/2W5yB1P",
+      "categoryId": 5
+    },
+    {
+      "id": 2,
+      "title": "Pai rico, pai pobre 20 anos",
+      "link": "https://amzn.to/2W8dPyP",
+      "categoryId": 5
+    },
+    {
+      "id": 3,
+      "title": "O poder do hábito",
+      "link": "https://amzn.to/2T6K13A",
+      "categoryId": 5
+    },
+    {
+      "id": 4,
+      "title": "Clube FII",
+      "link": "https://bit.ly/2FDtUrb",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "title": "Elliot",
+      "link": "https://bit.ly/2FEj7x0",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "title": "Banco Inter",
+      "link": "https://bit.ly/2FHTriW",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "title": "Magnetis",
+      "link": "https://bit.ly/2FDvM3a",
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "title": "Méliuz",
+      "link": "https://bit.ly/2X5IfSH",
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "title": "Banco Neon",
+      "link": "https://bit.ly/2FFS6Jx",
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "title": "NuBank",
+      "link": "https://bit.ly/2FFEu10",
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "title": "PicPay",
+      "link": "https://bit.ly/2T0JZxz",
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "title": "Stake",
+      "link": "https://bit.ly/2SGtuaj",
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "title": "Warren",
+      "link": "https://bit.ly/2FF9fmw",
+      "categoryId": 1
+    },
+    {
+      "id": 14,
+      "title": "Cabify",
+      "link": "https://bit.ly/2SWX76A",
+      "code": "magnob10",
+      "categoryId": 2
+    },
+    {
+      "id": 15,
+      "title": "Uber",
+      "link": "https://ubr.to/2FEnqZd",
+      "code": "magnof15ue",
+      "categoryId": 2
+    },
+    {
+      "id": 16,
+      "title": "Dropbox",
+      "link": "https://bit.ly/2FFSQyj",
+      "categoryId": 4
+    },
+    {
+      "id": 17,
+      "title": "Notion",
+      "link": "https://bit.ly/2AZz24V",
+      "categoryId": 6
+    },
+    {
+      "id": 18,
+      "title": "Setapp",
+      "link": "https://bit.ly/2FDvv08",
+      "categoryId": 99
+    },
+    {
+      "id": 19,
+      "title": "Lifevise",
+      "link": "https://bit.ly/2SeUeK2",
+      "categoryId": 3
+    },
+    {
+      "id": 20,
+      "title": "G Suite",
+      "link": "https://goo.gl/Qf8X52",
+      "categoryId": 4
+    },
+    {
+      "id": 21,
+      "title": "TunnelBear VPN",
+      "link": "https://bit.ly/2tCF9b8",
+      "categoryId": 6
+    },
+    {
+      "id": 22,
+      "title": "Cambly - English Teacher",
+      "link": "https://bit.ly/2U7nN1W",
+      "categoryId": 7
+    },
+    {
+      "id": 23,
+      "title": "Beblue",
+      "link": "https://bit.ly/2U7nN1W",
+      "categoryId": 1
+    },
+    {
+      "id": 24,
+      "title": "COINEXT",
+      "link": "https://bit.ly/2U7nN1W",
+      "categoryId": 1
+    },
+    {
+      "id": 25,
+      "title": "Brave",
+      "link": "https://bit.ly/2H4Ry0D",
+      "categoryId": 8
+    },
+    {
+      "id": 26,
+      "title": "Os segredos da mente milionária",
+      "link": "https://amzn.to/2FnGBDJ",
+      "categoryId": 5
+    },
+    {
+      "id": 27,
+      "title": "Textly: Free Writing Assistant",
+      "link": "https://bit.ly/2HGAyhx",
+      "categoryId": 4
+    },
+    {
+      "id": 28,
+      "title": "Udemy: Online Courses",
+      "link": "https://bit.ly/2TvuZE3",
+      "categoryId": 7
+    },
+    {
+      "id": 29,
+      "title": "Monetus",
+      "link": "http://bit.ly/2TGl12N",
+      "categoryId": 1
+    },
+    {
+      "id": 30,
+      "title": "Clube Hotel Urbano",
+      "link": "http://bit.ly/2HWcFTe",
+      "categoryId": 9
+    },
+    {
+      "id": 31,
+      "title": "Nexoos peer-to-peer lending",
+      "link": "http://bit.ly/2L0JDUG",
+      "categoryId": 1
+    }
+  ]
 }
