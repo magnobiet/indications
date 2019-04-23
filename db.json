@@ -51,7 +51,7 @@
       "icon": "whatshot"
     }
   ],
-  "indications": [
+  "referrals": [
     {
       "id": 1,
       "title": "Clube FII",
@@ -215,6 +215,28 @@
       "title": "Nexoos peer-to-peer lending",
       "link": "http://bit.ly/2L0JDUG",
       "categoryId": 1
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Me Poupe!: 10 passos para nunca mais faltar dinheiro no seu bolso",
+      "link": "https://amzn.to/2W5yB1P"
+    },
+    {
+      "id": 2,
+      "title": "Pai rico, pai pobre 20 anos",
+      "link": "https://amzn.to/2W8dPyP"
+    },
+    {
+      "id": 3,
+      "title": "O poder do hábito",
+      "link": "https://amzn.to/2T6K13A"
+    },
+    {
+      "id": 4,
+      "title": "Os segredos da mente milionária",
+      "link": "https://amzn.to/2FnGBDJ"
     }
   ]
 }
