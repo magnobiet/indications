@@ -221,7 +221,13 @@
       "title": "Organizze",
       "link": "https://bit.ly/3076v8w",
       "categoryId": 1
-    }
+    },
+    {
+      "id": 29,
+      "title": "Duolingo",
+      "link": "https://bit.ly/2VD3DSg",
+      "categoryId": 7
+    }    
   ],
   "books": [
     {
