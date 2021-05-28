@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magnobiet/indications.git"
+    "url": "git+https://github.com/magnobiet/referrals.git"
   },
   "keywords": [],
   "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/magnobiet/indications/issues"
+    "url": "https://github.com/magnobiet/referrals/issues"
   },
-  "homepage": "https://github.com/magnobiet/indications#readme"
+  "homepage": "https://github.com/magnobiet/referrals#readme"
 }

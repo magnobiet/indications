@@ -1,10 +1,10 @@
-# Indications
+# Referrals
 
 > My referral links
 
 ![Screen Shot](screenshot.png)
 
-## TL/DR
+## TL;DR
 
 ```bash
 npm run dev
