@@ -1,49 +1,43 @@
 new Vue({
 	el: '#app',
 	data: {
-		year: new Date().getFullYear(),
-		categories: [],
-		loading: true
+		api: 'https://api.referrals.magnobiet.com/',
+		icons: {
+			'Books': 'library_books',
+			'Communication': 'alternate_email',
+			'Education': 'books',
+			'Finances': 'attach_money',
+			'Food & Drink': 'fastfood',
+			'Games': 'videogame_asset',
+			'Maps & Navigation': 'commute',
+			'Others': 'whatshot',
+			'Personal development': 'person',
+			'Productivity': 'thumb_up_alt',
+			'Tools': 'get_app',
+			'Travel & Local': 'beach_access',
+		},
+		referrals: null,
+		loading: false
 	},
 	methods: {
-		sortBy(list, key = 'title') {
+		getDatum() {
 
-			list.sort((a, b) => {
+			this.loading = true;
 
-				if (a[key] > b[key]) {
-					return 1;
-				}
+			fetch(this.api)
+				.then((response) => response.json())
+				.then((response) => {
 
-				if (a[key] < b[key]) {
-					return -1;
-				}
+					this.referrals = response;
+					this.loading = false;
 
-				return 0;
-
-			});
-
-			return list;
+				}, () => {
+					this.loading = true;
+				});
 
 		}
 	},
 	created() {
-
-		this.loading = true;
-
-		fetch('https://my-json-server.typicode.com/magnobiet/referral/categories?_embed=referrals')
-			.then((response) => response.json())
-			.then((response) => {
-
-				this.categories = response.map((category) => {
-
-					category.referrals = this.sortBy(category.referrals);
-					return category;
-
-				});
-
-			}).then(() => {
-				this.loading = false;
-			});
-
+		this.getDatum();
 	}
 });

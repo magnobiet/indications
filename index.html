@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 
 	<head>
 		<meta charset="utf-8">
@@ -31,17 +31,17 @@
 
 				<div class="card-columns mb-3 text-center">
 
-					<div class="card bg-light mb-4 shadow-sm" v-for="category in categories" v-if="category.referrals.length">
+					<div class="card bg-light mb-4 shadow-sm" v-for="(items, category) in referrals" v-if="referrals !== null && !loading">
 
 						<div class="card-header">
 							<h2 class="my-0 font-weight-normal h4">
-								<i class="d-block material-icons" aria-hidden="true">{{ category.icon }}</i>
-								{{ category.title }}
+								<i class="d-block material-icons" aria-hidden="true">{{ icons[category] }}</i>
+								{{ category }}
 							</h2>
 						</div>
 
 						<div class="list-group list-group-flush">
-							<a class="list-group-item list-group-item-action" target="_blank" v-for="referral in category.referrals" :href="referral.link">
+							<a class="list-group-item list-group-item-action" target="_blank" v-for="referral in items" :href="referral.link">
 								{{ referral.title }}
 								<strong v-if="referral.code">({{ referral.code }})</strong>
 							</a>
@@ -89,7 +89,7 @@
 
 		</div>
 
-		<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
 		<script src="assets/scripts/app.js"></script>
 
 	</body>
