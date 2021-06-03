@@ -8,7 +8,6 @@
 
 ```bash
 npm run dev
-npm run dev:api
 ```
 
 ## License
